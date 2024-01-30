@@ -25,10 +25,13 @@ const thai = {
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
+
+
+[![Samira github stats](https://github-readme-stats.vercel.app/api?username=Samira95&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/samira95)
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+⭐️ From [@Samira](https://github.com/samira95)
