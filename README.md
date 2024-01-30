@@ -7,7 +7,7 @@
 
 
 [![Linkedin: samira-saud-3a2125216](https://img.shields.io/badge/-samira-saud-3a2125216-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samira-saud-3a2125216/)](https://www.linkedin.com/in/samira-saud-3a2125216/)
-[![GitHub Samira95](https://img.shields.io/github/followers/samira95?label=follow&style=social)](https://github.com/samira95)
+[![GitHub samira95](https://img.shields.io/github/followers/samira95?label=follow&style=social)](https://github.com/samira95)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
