@@ -3,9 +3,9 @@
 <p><em>
   Sono Java Junior Developer 
   
-<img align='right' 
+ 
 <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+
 
 
 [![Linkedin: samira-saud-3a2125216](https://img.shields.io/badge/-samira-saud-3a2125216-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samira-saud-3a2125216/)](https://www.linkedin.com/in/samira-saud-3a2125216/)
