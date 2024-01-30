@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Samira Saud</h1><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+                                   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<h1 align="center">Hi 👋, I'm Samira Saud</h1>
+
 
 
 
