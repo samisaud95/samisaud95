@@ -1,33 +1,19 @@
-<h2> Hi, I'm Samira Saud! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>
-  
-  Sono Java Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<h1 align="center">Hi 👋, I'm Samira Saud</h1>
+<h3 align="center">A passionate Back-end developer from Venezuela,right now i live in Italy</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samisaud95&label=Profile%20views&color=0e75b6&style=flat" alt="samisaud95" /> </p>
 
+- 🔭 I’m currently working on [RistoranteTeam2Java19](https://github.com/anamariaow/RistoranteTeam2Java19.git)
 
-[![Linkedin: samira-saud-3a2125216](https://img.shields.io/badge/-samira-saud-3a2125216-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samira-saud-3a2125216/)](https://www.linkedin.com/in/samira-saud-3a2125216/)
-[![GitHub samisaud95](https://img.shields.io/github/followers/samira95?label=follow&style=social)](https://github.com/samisaud95)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/samira-saud-3a2125216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/samira-saud-3a2125216" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### About
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/SamiSaud"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="SamiSaud" /></a></p><br><br>
 
--  **Learning :** Java Backend :zap: | Open-Source :fire:	
--  **Languages :** Java
--  **Hobbies :** Articles & Music :headphones:
--  **Fact :** First solve the problem, then write the code :heart: 
--  **Organization :** Technojam
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![github stats](https://github-readme-stats.vercel.app/api?username=samisaud953&show_icons=true)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-⭐️ From [Samira Saud](https://github.com/samisaud95)
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samisaud95&show_icons=true&locale=en&layout=compact" alt="samisaud95" /></p>
