@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Samira Saud</h1> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<h3 align="center">A passionate Back-end developer from Venezuela,right now i live in Italy</h3>
+<h1 align="center">Hi 👋, I'm Samira Saud</h1>
+<h3 align="center">A passionate Back-end developer from Venezuela,right now i live in Italy</h3><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samisaud95&label=Profile%20views&color=0e75b6&style=flat" alt="samisaud95" /> </p>
 
