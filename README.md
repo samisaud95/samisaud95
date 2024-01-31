@@ -1,5 +1,5 @@
                                             
-<h1 align="center">Hi 👋, I'm Samira Saud</h1> 
+<h1 align="center">Hi 👋, I'm Samira Saud,A passionate Back-end developer from Venezuela,right now i live in Italy</h1> 
                         
 
 <h3 align="center">A passionate Back-end developer from Venezuela,right now i live in Italy</h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
